@@ -70,7 +70,10 @@ s3-ap-northeast-1.amazonaws.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
-!...GFWList doesn't intend to support typosquatting...
+||google.com
+||google.com.hk
+||google.com.tw
+||google.com.jp
 ||1e100.net
 ||abc.xyz
 ||admob.com
