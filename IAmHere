@@ -27,9 +27,6 @@
 @@|http://www.v2ex.com
 
 
-!!---Afraid FreeDNS---
-.now.im
-
 !!---Amazon---
 amazon.com/
 .amazon.com/Dalai-Lama
@@ -77,8 +74,6 @@ s3-ap-northeast-1.amazonaws.com
 ||gstatic.com
 
 
-
-
 ||1e100.net
 ||abc.xyz
 ||admob.com
@@ -117,57 +112,11 @@ blogspot.com
 ||godoc.org
 ||golang.org
 ||goo.gl
-.google.ae
-.google.as
-.google.am
-.google.at
-.google.az
-.google.ba
-.google.cat
-.google.cd
-.google.ci
-.google.co.id
 .google.co.jp
 .google.co.kr
-.google.co.ma
 .google.co.uk
 .google.com
 .google.de
-.google.dj
-.google.dk
-.google.es
-.google.fi
-.google.fm
-.google.fr
-.google.gg
-.google.gl
-.google.gr
-.google.ie
-.google.is
-.google.it
-.google.jo
-.google.kz
-.google.mn
-.google.ms
-.google.nl
-.google.nu
-.google.no
-.google.ro
-.google.ru
-.google.rw
-.google.sc
-.google.sh
-.google.sk
-.google.sm
-.google.sn
-.google.tk
-.google.tm
-.google.to
-.google.tt
-.google.vu
-.google.ws
-!--||google-analytics.com
-!--||googleadservices.com
 ||googleapis.cn
 ||googleapis.com
 ||googleapps.com
@@ -189,8 +138,6 @@ blogspot.com
 ||googleplus.com
 ||googlesource.com
 ||googlesyndication.com
-!--||googletagmanager.com
-!--||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
 ||googlezip.net
@@ -222,7 +169,6 @@ blogspot.com
 ||tensorflow.org
 ||thinkwithgoogle.com
 ||tiltbrush.com
-!--||www.google
 ||waveprotocol.org
 ||waymo.com
 ||webmproject.org
