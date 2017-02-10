@@ -1,31 +1,20 @@
-!-----世界那么大我想去看看
-||javhub.net
-||javhuge.com
-||javbus.me
-||avbus77.com
-.javlibrary.com
-||javlibrary.com
-||sharethis.com
-.t66y.com
-||t66y.com
+!--| 世界那么大我想去看看 |--!
+
+!--注释--!
+example.com 
+!匹配	http://www.example.com/foo, http://www.google.com/search?q=www.example.com
+!不匹配	https://www.example.com/
+
+||example.com 
+!匹配	http://example.com/foo, https://subdomain.example.com/bar
+!不匹配	http://www.google.com/search?q=example.com
+
+|http://example.com
+!匹配 	所有开头为https://example.com网页
+!不匹配 	短连接如http://t.co/dsadas
 
 
 !---------------------Groups--------------------
-!!---V2EX---
-.v2ex.com
-!--Included in above rule: dns.v2ex.com
-@@|http://v2ex.com
-@@|http://cdn.v2ex.com
-@@|http://cn.v2ex.com
-@@|http://hk.v2ex.com
-@@|http://i.v2ex.com
-@@|http://lax.v2ex.com
-@@|http://neue.v2ex.com
-@@|http://pagespeed.v2ex.com
-@@|http://static.v2ex.com
-@@|http://workspace.v2ex.com
-@@|http://www.v2ex.com
-
 
 !!---Amazon---
 amazon.com/
@@ -202,6 +191,21 @@ wsgzao.github.io
 .imdb.com/title/tt1540068
 .imdb.com/title/tt4908644
 
+!!---V2EX---
+.v2ex.com
+!--Included in above rule: dns.v2ex.com
+@@|http://v2ex.com
+@@|http://cdn.v2ex.com
+@@|http://cn.v2ex.com
+@@|http://hk.v2ex.com
+@@|http://i.v2ex.com
+@@|http://lax.v2ex.com
+@@|http://neue.v2ex.com
+@@|http://pagespeed.v2ex.com
+@@|http://static.v2ex.com
+@@|http://workspace.v2ex.com
+@@|http://www.v2ex.com
+
 !---Tumblr---
 .tumblr.com
 ||tumblr.com
@@ -230,46 +234,7 @@ twitterfeed.com
 !-------------Wikipedia Related-------------
 !!Emergency need only(IP/Port block usage)!!
 !------0------
-!--||mediawiki.org
-!--@@||m.mediawiki.org
-!------1------
-!--||wikidata.org
-!--@@||m.wikidata.org
-!------2------
-!--||wikimedia.org
-!--@@||lists.wikimedia.org
-!--@@||m.wikimedia.org
-!--@@||phabricator.wikimedia.org
-!--@@||upload.wikimedia.org
-!--@@||wikitech.wikimedia.org
-!------3------
-!--||wikibooks.org
-!--@@||m.wikibooks.org
-!------4------
-!--||wikiversity.org
-!--@@||m.wikiversity.org
-!------5------
-!--||wikisource.org
-!--@@||m.wikisource.org
-|http://zh.wikisource.org
-!------6------
-!--||wikiquote.org
-!--@@||m.wikiquote.org
-!------7------
-!--||wikinews.org
-!--@@||m.wikinews.org
-|http://zh.wikinews.org
-!------8------
-!--||wikivoyage.org
-!--@@||m.wikivoyage.org
-|http://zh.wikivoyage.org
-!------9------
-!--||wiktionary.org
-!--@@||m.wiktionary.org
-|http://zh.wiktionary.org
-!-----10------
-!--||wikimediafoundation.org
-!--@@||m.wikimediafoundation.org
+
 !----Main-----
 !--||wikipedia.org
 zh.wikipedia.org
@@ -294,3 +259,15 @@ immigration.gov.tw
 ||ntbna.gov.tw
 ||ntsna.gov.tw
 taipei.gov.tw
+
+
+
+||javhub.net
+||javhuge.com
+||javbus.me
+||avbus77.com
+.javlibrary.com
+||javlibrary.com
+||sharethis.com
+.t66y.com
+||t66y.com
