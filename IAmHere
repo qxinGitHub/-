@@ -20,6 +20,7 @@ example.com
 amazon.com/
 .amazon.com/Dalai-Lama
 s3-ap-northeast-1.amazonaws.com
+||s3.amazonaws.com
 
 !!---AvMoo---
 .avmo.pw
@@ -232,10 +233,6 @@ twitterfeed.com
 ||twitterrific.com
 
 !-------------Wikipedia Related-------------
-!!Emergency need only(IP/Port block usage)!!
-!------0------
-
-!----Main-----
 !--||wikipedia.org
 zh.wikipedia.org
 !--||zh.wikipedia.org
@@ -249,8 +246,6 @@ wuu.wikipedia.org
 zh-yue.wikipedia.org
 |https://zh-yue.wikipedia.org
 
-
-
 !-------------------TW Govs---------------------
 .gov.tw
 ||tacc.cwb.gov.tw
@@ -260,8 +255,10 @@ immigration.gov.tw
 ||ntsna.gov.tw
 taipei.gov.tw
 
+!!---
+||wp.com
 
-
+! other
 ||javhub.net
 ||javhuge.com
 ||javbus.me
