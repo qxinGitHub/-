@@ -43,6 +43,8 @@ s3-ap-northeast-1.amazonaws.com
 ||facebook.com
 !--/^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
+facebook.net
+||facebook.net
 ||facebook.design
 ||connect.facebook.net
 ||facebook.hu
@@ -255,8 +257,8 @@ taipei.gov.tw
 
 !!--个别地区无法访问
 ||wp.com
-oschina.net
-||oschina.net
+!!oschina.net
+!!||oschina.net
 
 
 !! -- v·p·n --
@@ -265,6 +267,8 @@ oschina.net
 
 
 ! other
+yahoo.com
+||yahoo.com
 ||javhub.net
 ||javhuge.com
 ||javbus.me
@@ -276,3 +280,51 @@ oschina.net
 ||t66y.com
 freedownloadmanager.org
 ||freedownloadmanager.org
+
+
+!! 日常更新
+javpub.vip
+||javpub.vip
+dix3.com
+||dix3.com
+soulxplus.net
+||soulxplus.net
+north-plus.net
+||north-plus.net
+ff233.com
+||ff233.com
+btso.pw
+||btso.pw
+
+dmm.co.jp
+||dmm.co.jp
+haoaifu.com
+||haoaifu.com
+8pfj.com
+||8pfj.com
+watch8x.com
+||watch8x.com
+hpjav.com
+||hpjav.com
+ettoday.net
+||ettoday.net
+streamtest.github.io
+||streamtest.github.io
+javabc.net
+||javabc.net
+ourjav.com
+||ourjav.com
+weheartit.com
+||weheartit.com
+vimeo.com
+||vimeo.com
+whicdn.com
+||whicdn.com
+xvideos.com
+||xvideos.com
+0.170.192.178
+||0.170.192.178
+javbz.com
+||javbz.com
+javfor.me
+||javfor.me
