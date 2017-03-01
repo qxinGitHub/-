@@ -79,6 +79,7 @@ facebook.net
 .appspot.com
 ||appspot.com
 blogspot.com
+bp.blogspot.com
 !/^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
 .blogspot.jp
@@ -114,6 +115,7 @@ blogspot.com
 ||googleapis.cn
 ||googleapis.com
 ||googleapps.com
+||ajax.googleapis.com
 ||googleartproject.com
 ||googleblog.com
 ||googlebot.com
@@ -284,7 +286,7 @@ freedownloadmanager.org
 ||freedownloadmanager.org
 
 
-!! 日常更新
+!! 日更
 !!!!!!!!!!!!!!!!!!!!!!!    2017.02.19
 javpub.vip
 ||javpub.vip
@@ -330,3 +332,43 @@ javbz.com
 ||javbz.com
 javfor.me
 ||javfor.me
+
+! 2017-03-01  22lines 
+gumroad.com
+||gumroad.com
+calm.com
+||calm.com
+cdninstagram.com
+||cdninstagram.com
+aolcdn.com
+||aolcdn.com
+bootcss.com
+||bootcss.com
+wordpress.com
+||wordpress.com
+userscripts.org
+||userscripts.org
+pconline.com.cn
+||pconline.com.cn
+blogblog.com
+||blogblog.com
+blogger.com
+||blogger.com
+uzzf.com
+||uzzf.com
+useso.com
+||useso.com
+fbcdn.net
+||fbcdn.net
+h5galgame.com
+||h5galgame.com
+ahk8.com
+||ahk8.com
+instagram.com
+||instagram.com
+t.co
+||t.co
+twimg.com
+||twimg.com
+staticfile.org
+||staticfile.org
