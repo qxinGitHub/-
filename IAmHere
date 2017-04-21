@@ -1,6 +1,8 @@
 !--| 世界那么大我想去看看 |--!
 
-!2017-02-19
+! 2017-04-21  0.4  add 75
+! 2017-03-01  0.3  add 22 
+! 2017-02-19  0.2  add 21
 
 !--注释--!
 example.com 
@@ -79,7 +81,7 @@ facebook.net
 .appspot.com
 ||appspot.com
 blogspot.com
-bp.blogspot.com
+||blogspot.com
 !/^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
 .blogspot.jp
@@ -116,6 +118,7 @@ bp.blogspot.com
 ||googleapis.com
 ||googleapps.com
 ||ajax.googleapis.com
+||fonts.googleapis.com
 ||googleartproject.com
 ||googleblog.com
 ||googlebot.com
@@ -134,6 +137,7 @@ bp.blogspot.com
 ||googleplus.com
 ||googlesource.com
 ||googlesyndication.com
+googleusercontent.com
 ||googleusercontent.com
 ||googlevideo.com
 ||googlezip.net
@@ -185,8 +189,10 @@ bp.blogspot.com
 ||staticflickr.com
 
 !---GitHub---
+github.com
 ||github.com
 .github.io
+github.io
 ||github.io
 
 
@@ -266,6 +272,7 @@ taipei.gov.tw
 
 
 !! -- v·p·n --
+bandwagonhost.com
 .bandwagonhost.com
 ||bandwagonhost.com
 
@@ -288,87 +295,122 @@ freedownloadmanager.org
 
 !! 日更
 !!!!!!!!!!!!!!!!!!!!!!!    2017.02.19
-javpub.vip
 ||javpub.vip
-dix3.com
 ||dix3.com
-soulxplus.net
 ||soulxplus.net
-north-plus.net
 ||north-plus.net
-ff233.com
 ||ff233.com
-btso.pw
 ||btso.pw
-dmm.co.jp
 ||dmm.co.jp
-haoaifu.com
 ||haoaifu.com
-8pfj.com
 ||8pfj.com
-watch8x.com
 ||watch8x.com
-hpjav.com
 ||hpjav.com
-ettoday.net
 ||ettoday.net
-streamtest.github.io
 ||streamtest.github.io
-javabc.net
 ||javabc.net
-ourjav.com
 ||ourjav.com
-weheartit.com
 ||weheartit.com
-vimeo.com
 ||vimeo.com
-whicdn.com
 ||whicdn.com
-xvideos.com
 ||xvideos.com
-220.170.192.178
 ||220.170.192.178
-javbz.com
 ||javbz.com
-javfor.me
 ||javfor.me
 
 ! 2017-03-01  22lines 
-gumroad.com
 ||gumroad.com
-calm.com
 ||calm.com
-cdninstagram.com
 ||cdninstagram.com
-aolcdn.com
 ||aolcdn.com
-bootcss.com
 ||bootcss.com
-wordpress.com
 ||wordpress.com
-userscripts.org
 ||userscripts.org
-pconline.com.cn
 ||pconline.com.cn
-blogblog.com
 ||blogblog.com
-blogger.com
 ||blogger.com
-uzzf.com
 ||uzzf.com
-useso.com
 ||useso.com
-fbcdn.net
 ||fbcdn.net
-h5galgame.com
 ||h5galgame.com
-ahk8.com
 ||ahk8.com
-instagram.com
 ||instagram.com
-t.co
 ||t.co
-twimg.com
 ||twimg.com
-staticfile.org
 ||staticfile.org
+
+! 2017-04-21  75 lines
+||markmail.org
+||pxls.space
+||pr0gramm.com
+||dw.com
+||pastebin.com
+||box.com
+||kxcdn.com
+||eyny.com
+||sexinsex.net
+||xiao01.com
+||imgbus.com
+||bejav.me
+||m1533.com
+||imptestrm.com
+||bbs1122.com
+||tvboxnow.com
+||jkforum.net
+||mymypic.net
+||imgbar.net
+||imgchili.net
+||gaiyeusex.com
+||javfull.net
+||speakerdeck.com
+||alternativeto.net
+||tietuku.com
+||ii-i.org
+||w3schools.com
+||lwgod.com
+||aa.am
+||dropbox.com
+||qpix.com
+||s9tu.com
+||xoimg.com
+||33img.com
+||accountkit.com
+||autohotkey.com
+||pinimg.com
+||pinterest.com
+||a7s7.com
+||jav2be.com
+||javhd69.net
+||jwpcdn.com
+||kiseouhgf.info
+||qixinglu.com
+||wenxuecity.com
+||rightinthebox.com
+||lync.in
+||useso.com
+||opera.com
+||playpcesor.com
+||aiqingzhi.net
+||51cto.com
+||live.com
+||deviantart.net
+||deviantart.com
+||disqus.com
+||airav.cc
+||nyaa.se
+||avmask.com
+||2-porn.com
+||bonbonyou.com
+||imgchr.com
+||sis001.com
+||bmshc.cc
+||weimeiba.com
+||tutorialonfree.com
+||vshare.io
+||xvx.io
+||yespornplease.com
+||bestvpnchina.net
+||imgur.com
+||xuite.net
+||imageshack.us
+||daum.net
